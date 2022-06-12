@@ -11,9 +11,9 @@
 
 ### [Как заказать платы](https://github.com/EugeneCarlo/OVERLY-LOWERLY-Guitar-Pedal/blob/main/How%20to%20get%20PCB/README.md)
 
-### [Как работает](https://github.com/EugeneCarlo/DELAYVERB_Desktop_Reverberation/blob/main/How%20it%20works/README.md)
-
 ### [Список комплектующих](https://github.com/EugeneCarlo/DELAYVERB_Desktop_Reverberation/blob/main/BOM/README.md)
+
+### [Как работает](https://github.com/EugeneCarlo/DELAYVERB_Desktop_Reverberation/blob/main/How%20it%20works/README.md)
 
 ### [Как собрать](https://github.com/EugeneCarlo/DELAYVERB_Desktop_Reverberation/blob/main/How%20to%20assemble/README.md)
 
