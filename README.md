@@ -1,7 +1,9 @@
 # DELAYVERB
 
 И так, вы на странице звукового эффекта реверберации DELAYVERB.<p>
-Пожалуй начну оформлять страницу проекта.
+Пожалуй начну оформлять страницу проекта.<p>
+
+<img src="https://github.com/EugeneCarlo/DELAYVERB_Desktop_Reverberation/blob/main/Image/3D%20PANEL%20TOP.png?raw=true" width="500">
 
 #### Ниже по ссылкам информация о том как это все работает и последовательность сборки:
 
