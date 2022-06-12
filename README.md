@@ -24,4 +24,4 @@
 
 ##### [GERBER - Платы модулей](https://github.com/EugeneCarlo/DELAYVERB_Desktop_Reverberation/raw/main/PCB/Gerber_Module.zip)
 
-##### [GERBER - Нижняя панель](https://github.com/EugeneCarlo/DELAYVERB_Desktop_Reverberation/raw/main/PCB/Gerber_PCB_DELAYVERB%20SWHTCH.zip)
+##### [GERBER - Нижняя панель](https://github.com/EugeneCarlo/DELAYVERB_Desktop_Reverberation/raw/main/PCB/Gerber_DNO.zip)
