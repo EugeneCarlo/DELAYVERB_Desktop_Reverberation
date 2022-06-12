@@ -5,7 +5,7 @@
 
 Это дискретный ревербератор на 12 микросхемах дилея PT2399.
 
-Поддержать проект и принять участие в розыгрыше [Coron DS8](https://github.com/EugeneCarlo/coron-ds8-super-huevo-edition) можно здесь: [Поддержать](https://vk.com/app6471849_-114519110)
+*Поддержать проект и принять участие в розыгрыше [Coron DS8](https://github.com/EugeneCarlo/coron-ds8-super-huevo-edition) можно здесь: [Поддержать](https://vk.com/app6471849_-114519110)*
 
 <img src="https://github.com/EugeneCarlo/DELAYVERB_Desktop_Reverberation/blob/main/Image/3D%20PANEL%20TOP.png?raw=true" width="500">
 
