@@ -13,14 +13,10 @@
 
 ### [Как собрать](https://github.com/EugeneCarlo/DELAYVERB_Desktop_Reverberation/blob/main/How%20to%20assemble/README.md)
 
-##### [GERBER - Верхняя панель](https://github.com/EugeneCarlo/coron-ds8-super-huevo-edition/raw/main/PCB/Gerber_PANEL.zip)
+##### [GERBER - Верхняя панель](https://github.com/EugeneCarlo/DELAYVERB_Desktop_Reverberation/raw/main/PCB/Gerber_PANEL.zip)
 
-##### [GERBER - Основная плата](https://github.com/EugeneCarlo/coron-ds8-super-huevo-edition/raw/main/PCB/Gerber_MOTHER%20MK3%20copy.zip)
+##### [GERBER - Основная плата](https://github.com/EugeneCarlo/DELAYVERB_Desktop_Reverberation/raw/main/PCB/Gerber_PCB_DELAYVERB%20SWHTCH.zip)
 
-##### [GERBER - Платы модулей](https://github.com/EugeneCarlo/coron-ds8-super-huevo-edition/raw/main/PCB/Gerber_EFX.zip)
+##### [GERBER - Платы модулей](https://github.com/EugeneCarlo/DELAYVERB_Desktop_Reverberation/raw/main/PCB/Gerber_Module.zip)
 
-##### [GERBER - Нижняя панель](https://github.com/EugeneCarlo/coron-ds8-super-huevo-edition/raw/main/PCB/Gerber_DNO.zip)
-
-
-
-https://github.com/EugeneCarlo/DELAYVERB_Desktop_Reverberation/tree/main/BOM
+##### [GERBER - Нижняя панель](https://github.com/EugeneCarlo/DELAYVERB_Desktop_Reverberation/raw/main/PCB/Gerber_PCB_DELAYVERB%20SWHTCH.zip)
